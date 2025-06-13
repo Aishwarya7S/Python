@@ -21,7 +21,6 @@ Python is a powerful, high-level, interpreted programming language known for its
 - File I/O operations  
 - Exception Handling  
 - Object-Oriented Programming (OOP) in Python  
-- Basic projects and real-world problem solving
 
   
 ---
